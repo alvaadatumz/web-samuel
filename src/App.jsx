@@ -15,7 +15,7 @@ function App() {
         <section className="about-section" id="about">
           <div className="container">
             <div className="section-header">
-              <h2 className="section-title">Tentang Kami</h2>
+              <h2 className="section-title">Tentang Kita</h2>
               <p className="section-subtitle">Pelajari lebih lanjut tentang proyek ini</p>
             </div>
             <div className="about-content">
